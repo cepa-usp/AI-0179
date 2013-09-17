@@ -1,0 +1,7 @@
+h1. Distances in 2D rectangular coordinates
+
+It shows the 2D rectangular coordinates of two objects and the linear distance between them.
+
+h2. Dependencies
+
+* "Batik toolkit":http://xmlgraphics.apache.org/batik/
